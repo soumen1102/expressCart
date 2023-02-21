@@ -69,7 +69,7 @@
     "rimraf": "^2.7.1",
     "sanitize-html": "^2.7.1",
     "sitemap": "^1.6.0",
-    "string-strip-html": "^4.3.14",
+    "string-strip-html": "^4.5.1",
     "strip-bom": "^3.0.0",
     "stripe": "^8.184.0",
     "uglifycss": "0.0.27",
